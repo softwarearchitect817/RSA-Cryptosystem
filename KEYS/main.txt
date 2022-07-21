@@ -1,0 +1,1 @@
+Diretório padrão dos arquivos 'private_key.txt' e 'public_key.txt'
